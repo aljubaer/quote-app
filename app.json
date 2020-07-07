@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "musharaka",
-    "slug": "musharaka",
-    "version": "1.0.0",
+    "name": "Islamic Quote",
+    "slug": "quote",
+    "version": "0.0.1",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/favicon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -21,6 +21,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.islamicquote.islamicquote",
+      "versionCode": 1
     }
   }
 }
